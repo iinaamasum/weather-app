@@ -1,0 +1,12 @@
+.main__container {
+  width: 50%;
+  margin: auto;
+  padding: 10rem 0;
+}
+
+/* media query */
+@media (max-width: 480px) {
+  .main__container {
+    width: 90% !important;
+  }
+}
